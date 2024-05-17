@@ -1,10 +1,19 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+  - title: CheckMathe
+    description: My approarch of commercial Tutoring
+    website: https://checkmathe.de
+    image:
+  - title: CS50 Quiz
+    description: A single choice iOS quiz app fetching from Firebase
+    website: https://github.com/nico-fst/cs50quiz/
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Star-Vault
+    description: My public associative knowledge base
+    website: https://obsidian.nicostern.de
+    image:
+
 menu:
     main: 
         weight: 4
@@ -14,20 +23,5 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Check out my projects :). \
+I look forward to constructive thoughts!
