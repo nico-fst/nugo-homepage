@@ -34,7 +34,7 @@ icon = "brand-xing"
 [[social]]
 identifier = "mail"
 name = "Mail"
-url = "mailto:career@n-stern.de"
+url = "mailto:contact@nicostern.de"
 
 [social.params]
 icon = "mail"

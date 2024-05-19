@@ -2,7 +2,7 @@
 title: Links
 links:
   - title: CheckMathe
-    description: My approarch of commercial Tutoring
+    description: My approach of modern Tutoring
     website: https://checkmathe.de
     image:
   - title: CS50 Quiz

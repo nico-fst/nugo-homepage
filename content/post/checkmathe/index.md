@@ -1,6 +1,6 @@
 ---
 title: CheckMathe
-description: My approach of commercial Tutoring
+description: My approach of modern Tutoring
 slug: checkmathe
 date: 2024-05-17 00:00:00+0000
 image: cover-creamy.jpg
@@ -12,7 +12,7 @@ tags:
     - Docker
     - Rest API
     - Microsoft SQL
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: -998
 ---
 
-TODO was mach ich überhaupt hier brrr
+TODO was mach ich überhaupt hier brrru
