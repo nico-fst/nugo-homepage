@@ -5,7 +5,7 @@ slug: cs50quiz
 date: 2023-08-04 00:00:00+0000
 image: cover-cs50quiz.jpg
 categories:
-    - Coding Project
+    - iOS App
     - Course
 tags:
     - Swift

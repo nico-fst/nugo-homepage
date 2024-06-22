@@ -5,7 +5,7 @@ slug: star-vault
 date: 2024-05-17 04:43:00+0000
 image: cover-rainbow.jpg
 categories:
-- Coding Project
+- Website
 - Working on...
 tags:
 - Obsidian
