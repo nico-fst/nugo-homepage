@@ -13,6 +13,10 @@ links:
     description: My public associative knowledge base
     website: https://obsidian.nicostern.de
     image:
+  - title: Star-Vaultwarden
+    description: My Bitwarden instance hosted on a Hetzner server
+    website: https://vaultwarden.nicostern.de
+    image:
 
 menu:
     main: 
