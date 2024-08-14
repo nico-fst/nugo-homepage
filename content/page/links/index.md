@@ -14,8 +14,12 @@ links:
     website: https://obsidian.nicostern.de
     image:
   - title: Star-Vaultwarden
-    description: My Bitwarden instance hosted on a Hetzner server
-    website: https://vaultwarden.nicostern.de
+    description: My Vaultwarden instance hosted on a Hetzner server
+    website: https://vw.nicostern.de
+    image:
+  - title: Star-Cloud
+    description: My Nextcloud instance
+    website: https://nc.nicostern.de
     image:
 
 menu:
