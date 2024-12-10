@@ -4,7 +4,7 @@ links:
   - title: CheckMathe
     description: My approach of modern Tutoring
     website: https://checkmathe.de
-    image:
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: CS50 Quiz
     description: A single choice iOS quiz app fetching from Firebase
     website: https://github.com/nico-fst/cs50quiz/
@@ -12,7 +12,7 @@ links:
   - title: Star-Vault
     description: My public associative knowledge base
     website: https://obsidian.nicostern.de
-    image:
+    image: 
   - title: Star-Vaultwarden
     description: My Vaultwarden instance hosted on a Hetzner server
     website: https://vw.nicostern.de
@@ -32,4 +32,4 @@ comments: false
 ---
 
 Check out my projects :). \
-I look forward to constructive thoughts!
+Looking forward to constructive thoughts!
